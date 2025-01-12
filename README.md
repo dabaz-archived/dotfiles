@@ -12,11 +12,10 @@ This is **my** personal dotfiles. You can design yours based on mine and please 
 
 ## Want to work with me?
 
-You can send me an [E-mail](mailto:dieboldhan123@gmail.com).
+You can send me an [E-mail](mailto:hi@dabaz.me).
 
 You can also contact me via 
-- [Instagram](https://www.instagram.com/dabaz_luvs_hot_girls/)
-- [Twitter](https://twitter.com/dab_az/)
-- [LinkedIn (InCareer)](https://www.linkedin.cn/incareer/in/diebold-dai-816814177)
-- [Personal Website](https://dabaz.vercel.app)
-- [Another Personal Website](https://dabazofficial.com)
+- [Instagram](https://www.instagram.com/dabaz_official/)
+- [Twitter](https://twitter.com/dabaz_official/)
+- [LinkedIn](https://www.linkedin.com/in/diebold-dai/)
+- [Personal Website](https://dabaz.me)
