@@ -16,6 +16,6 @@ You can send me an [E-mail](mailto:hi@dabaz.me).
 
 You can also contact me via 
 - [Instagram](https://www.instagram.com/dabaz_official/)
-- [Twitter](https://twitter.com/dabaz_official/)
+- [X](https://x.com/dabaz_official/)
 - [LinkedIn](https://www.linkedin.com/in/diebold-dai/)
-- [Personal Website](https://dabaz.me)
+- [Website](https://dabaz.me)
